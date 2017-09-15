@@ -1,0 +1,4 @@
+#Mon Sep 04 13:08:35 EDT 2017
+base.0=D\:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

@@ -1,0 +1,7 @@
+#Mon Sep 04 13:08:36 EDT 2017
+base.0=D\:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dad18116b0d46fd87cd7a8a7c2d37c6b5d8a3c11
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ebf7ac17d5d54b3e95febe06f1d6fa1039f47310\\classes.dex
+base.1=D\:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ebf7ac17d5d54b3e95febe06f1d6fa1039f47310
+file.0=D\:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dad18116b0d46fd87cd7a8a7c2d37c6b5d8a3c11\\classes.dex

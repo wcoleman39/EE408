@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ownCloud\\School\\F4-2017\\EE408\\workspace\\EE408-App1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\William\\.android\\build-cache\\7de2e8e06464c192150658f24ea596e60842ce1f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

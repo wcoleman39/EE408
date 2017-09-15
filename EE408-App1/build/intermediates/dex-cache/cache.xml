@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00053713e4fc01a50acf3ec93b47c70ef9e10738">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dad18116b0d46fd87cd7a8a7c2d37c6b5d8a3c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ebf7ac17d5d54b3e95febe06f1d6fa1039f47310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\a60d10ffbafd2f4bfabd054bf1f433615b7aee6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b2dc734eea93b01f97985763df0ec5cf25ebf45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\d651992b354efb52bcf326c8e313e8439473d9c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57b68d15f911dd64fbe8ba73aed01d18635c988a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5abec9686360197a98c0252a4d32def1ee733c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\7857bc914d73a7103abf6b0c16f36846b07d492b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e15889244857071764cd7af93ec4c02e349226f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\fab99b73ca043e5d13b11ef08f484924af42b465\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f678fb013f756047996fb79e6290f8ad07e5e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\3d30d3d4bd57457282124d515221db032c12907b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ed570bfd0c3672f8d44064b41ed6d1bf5126491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\b7eac71ce4d0b50665d1fc0e5fe0da4a7224f441\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3440e4aab680fdc242f5ab53637c67dff587a8eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\7de2e8e06464c192150658f24ea596e60842ce1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94ce86ed9a831bbff58220a8c66b6da37f5a60e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\1d7e73125829ccba80cf84ab1d9f8ee08d5b5d89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7199563ff00f5f3936e3890a49e5a974a41894b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William\.android\build-cache\73f3d519d8d93295e45c59f6cb2131d5c57b94d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\ownCloud\School\F4-2017\EE408\workspace\EE408-App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7eeb75cc9df36f82981fb3251e8e83057529f25\classes.dex" />
+    </item>
+
+</items>
